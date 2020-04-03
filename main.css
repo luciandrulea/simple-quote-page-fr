@@ -27,3 +27,16 @@ footer {
   font-family: arial;
   font-style: oblique;
 }
+
+
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+}
+.links{
+  text-align: right;
+  }
